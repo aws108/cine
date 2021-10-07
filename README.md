@@ -1,2 +1,2 @@
 # cine
-Simulación de una aplicación de reserva una butaca de cine
+Simulación de una aplicación de reserva de una butaca de cine
